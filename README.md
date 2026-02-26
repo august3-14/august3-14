@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello, world! 🖖
 
-<!--
-**august3-14/august3-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я около года занимаюсь Data Science, имею опыт работы продакт-менеджером и аналитиком и хорошо понимаю специфику B2B и B2C продуктов. Умею проводить не "исследования ради исследований", а data- и ML-исследования, напрямую связанные с бизнес-целями, метриками и продуктовыми решениями, а также формулирую корректные задачи и интерпретирую результаты в прикладном, понятном для бизнеса виде.
 
-Here are some ideas to get you started:
+Сейчас стремлюсь развиваться как дата-сайентист, применяя машинное обучение для решения реальных продуктовых задач, влияющих на ключевые метрики, и работать в команде, где ценится осмысленное использование данных для принятия решений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## мой стек и навыки:
+* 🐍 Python, SQL
+* 🔧 Jupyter Notebook, PyCharm
+* 📅 Numpy, Pandas, SciPy
+* 📊 Seaborn, Matplotlib
+* 🦾 Scikit-Learn, XGBoost/LightGBM/CatBoost
+* ✨ PyTorch, TensorFlow, Keras
+* 📈 GA, Яндекс.Метрика
+
+## контакты:
+<a href="https://t.me/JPBaguette" target="_blank"><img src="https://github.com/user-attachments/assets/324c5451-14ce-47b3-9dac-3ced7e54e901" width="60" height="60" alt="Telegram" /></a><a href="https://www.linkedin.com/in/anna-strinadkina/" target="_blank"><img src="https://github.com/user-attachments/assets/40394e2a-400c-4f73-90c4-32ae67abb1f1" width="60" height="60" alt="LinkedIn" /></a><a href="mailto:anya.strinadkina@gmail.com"><img src="https://github.com/user-attachments/assets/261e61f1-6bc3-41ea-a6bc-182b852222179" width="60" height="60" alt="Email" /></a>
+
