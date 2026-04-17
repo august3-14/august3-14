@@ -14,5 +14,15 @@
 * 📈 GA, Яндекс.Метрика
 
 ## контакты:
-<a href="https://t.me/JPBaguette" target="_blank"><img src="https://github.com/user-attachments/assets/324c5451-14ce-47b3-9dac-3ced7e54e901" width="60" height="60" alt="Telegram" /></a><a href="https://www.linkedin.com/in/anna-strinadkina/" target="_blank"><img src="https://github.com/user-attachments/assets/40394e2a-400c-4f73-90c4-32ae67abb1f1" width="60" height="60" alt="LinkedIn" /></a><a href="mailto:anya.strinadkina@gmail.com"><img src="https://github.com/user-attachments/assets/261e61f1-6bc3-41ea-a6bc-182b852222179" width="60" height="60" alt="Email" /></a>
+<p align="left">
+  <a href="https://t.me/JPBaguette" target="_blank">
+    <img src="https://github.com/user-attachments/assets/324c5451-14ce-47b3-9dac-3ced7e54e901" width="60" height="60" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/anna-strinadkina/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/40394e2a-400c-4f73-90c4-32ae67abb1f1" width="60" height="60" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anya.strinadkina@gmail.com">
+    <img src="https://github.com/user-attachments/assets/261e61f1-6bc3-41ea-a6bc-182b852222179" width="60" height="60" alt="Email" />
+  </a>
+</p>
 
